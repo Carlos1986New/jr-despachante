@@ -75,8 +75,7 @@ li {
     }
 }
 img {
-    height: 30vh;
-    object-fit: contain;
+    width: 100%; height: auto;
     }
 
 footer {
