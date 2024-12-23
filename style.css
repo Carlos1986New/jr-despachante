@@ -11,7 +11,7 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
-    text-align: justify;
+    
 }
 
 header {
@@ -29,6 +29,10 @@ header h1 {
 
 nav {
     margin: 1em 0;
+}
+
+p {
+    text-align: justify;
 }
 
 nav a {
@@ -89,14 +93,14 @@ img {
 
 footer {
     position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  background-color: black; /* cor de fundo */
-  color: white;           /* cor do texto */
-  text-align: center;     /* alinhamento do texto */
-  padding: 10px 0;        /* espaço interno */
-  z-index: 1000;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: black; /* cor de fundo */
+    color: white;           /* cor do texto */
+    text-align: center;     /* alinhamento do texto */
+    padding: 10px 0;        /* espaço interno */
+    z-index: 1000;
 }
 footer > a {
     color: white;
