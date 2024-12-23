@@ -74,6 +74,10 @@ li {
         margin: 0.5em 0;
     }
 }
+img {
+    height: 30vh;
+    object-fit: contain;
+    }
 
 footer {
     position: fixed;
