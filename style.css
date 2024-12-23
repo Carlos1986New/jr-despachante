@@ -18,7 +18,8 @@ header {
 
 header h1 {
     margin: 0;
-}
+    text-rendering: auto;
+    }
 
 nav {
     margin: 1em 0;
@@ -44,7 +45,7 @@ section {
 }
 
 h1, h2 {
-    color:blue;
+    color:#008ee0;
 }
 
 h1.banner {
@@ -56,7 +57,7 @@ p {
 }
 
 strong {
-    color: #333;
+    color: rgba(0, 0, 0, 0.74);
 }
 li {
     padding-bottom: 20px;
