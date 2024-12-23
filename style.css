@@ -46,7 +46,8 @@ section {
 
 h1, h2 {
     color:#008ee0;
-}
+    font-weight: bolder;
+    }
 
 h1.banner {
     color: white;
