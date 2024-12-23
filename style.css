@@ -75,13 +75,17 @@ li {
 }
 
 footer {
-    background-color: black;
-    color: white;
-    text-align: center;
-    padding: 1em 0;
-    margin-top: auto;
+    position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: black; /* cor de fundo */
+  color: white;           /* cor do texto */
+  text-align: center;     /* alinhamento do texto */
+  padding: 10px 0;        /* espaço interno */
+  z-index: 1000;
 }
 footer > a {
     color: white;
     text-decoration: underline;
-}
+   }
