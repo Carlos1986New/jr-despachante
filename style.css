@@ -77,6 +77,12 @@ strong {
 li {
     padding-bottom: 20px;
 }
+
+button {
+    background-color: #008ee0;
+    color: white;
+    margin-left: 10px;
+}
 @media (max-width: 600px) {
     nav {
         display: flex;
