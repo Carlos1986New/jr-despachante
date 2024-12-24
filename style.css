@@ -11,6 +11,7 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
+    margin-bottom: 20px;
        
 }
 
@@ -94,7 +95,7 @@ img {
     table {
         background-color: rgb(223, 247, 255);
         border-collapse: collapse;
-        margin-bottom: 20px;
+        
         }
         th {
             background-color: gray;
