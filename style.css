@@ -114,6 +114,9 @@ img {
     td{
         padding: 10px;
     }
+    #tabela{
+        overflow-x: auto;
+    }
     
 footer {
     position: fixed;
