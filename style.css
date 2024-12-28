@@ -124,6 +124,8 @@ img {
     iframe {
         display: block;
         margin: auto;
+        position: relative;
+        
     }
 footer {
     position: fixed;
