@@ -122,11 +122,13 @@ img {
     }
     
     iframe {
+        position: relative;
         display: block;
         margin: auto;
-        position: relative;
-        
-    }
+        height: 50vh;
+        width: 65vw;
+        overflow: hidden;
+           }
 footer {
     position: fixed;
     bottom: 0;
