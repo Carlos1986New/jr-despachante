@@ -121,6 +121,10 @@ img {
         overflow-x: auto;
     }
     
+    iframe {
+        display: block;
+        margin: auto;
+    }
 footer {
     position: fixed;
     bottom: 0;
