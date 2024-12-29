@@ -122,12 +122,11 @@ img {
     }
     
     iframe {
-        position: relative;
-        display: block;
-        margin: auto;
+        width: 100%; /* Ajusta à largura do main */
+        height: 100%; /* Ajusta à altura do main */
+        border: none; /* Remove a borda para um visual limpo */
+        display: block; /* Evita margens indesejadas */
         height: 50vh;
-        width: 65vw;
-        overflow: hidden;
            }
 footer {
     position: fixed;
